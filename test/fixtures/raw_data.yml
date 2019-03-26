@@ -1,0 +1,53 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_raw: MyString
+  visit_time: 2019-03-26 12:46:03
+  profile: MyString
+  picture: MyString
+  degree: MyString
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  from: MyString
+  title: MyString
+  company: MyString
+  company_profile: MyString
+  company_website: MyString
+  personal_website: MyString
+  email: MyString
+  phone: MyString
+  im: MyString
+  twitter: MyString
+  location: MyString
+  industry: MyString
+  my_tags: MyString
+  sales_profile: MyString
+  summary: MyString
+  my_notes: MyString
+
+two:
+  id_raw: MyString
+  visit_time: 2019-03-26 12:46:03
+  profile: MyString
+  picture: MyString
+  degree: MyString
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  from: MyString
+  title: MyString
+  company: MyString
+  company_profile: MyString
+  company_website: MyString
+  personal_website: MyString
+  email: MyString
+  phone: MyString
+  im: MyString
+  twitter: MyString
+  location: MyString
+  industry: MyString
+  my_tags: MyString
+  sales_profile: MyString
+  summary: MyString
+  my_notes: MyString
