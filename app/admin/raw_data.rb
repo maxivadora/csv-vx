@@ -15,7 +15,7 @@ ActiveAdmin.register RawDatum do
     column :id_raw
     column :visit_time
     column :profile
-    column :picture
+    # column :picture
     column :degree
     column :first_name
     column :middle_name
@@ -33,8 +33,8 @@ ActiveAdmin.register RawDatum do
     column :location
     column :industry
     column :my_tags
-    column :sales_profile
-    column :summary
+    # column :sales_profile
+    # column :summary
     column :my_notes
     actions
   end
